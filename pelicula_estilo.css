@@ -1,0 +1,181 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background: black;
+	background-size: cover;
+	color: white;
+}
+
+#logoN{
+	width: 200px;
+	margin-left: 10px;
+}
+.contenedor{
+	width: 95%;
+	margin: auto;
+	background: linear-gradient(black);
+}
+header .contenedor{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+header nav a{
+	color: white;
+	text-decoration: none;
+	margin-right: 20px;
+}
+header nav a:hover,
+header nav a.activo{
+	color: red;
+}
+.contenedor-titulo-controles{
+	padding: 40px;
+	background: linear-gradient(red 0%, black 100%) ;
+	font-size: 30px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: normal;
+}
+.pelicula{
+	margin-top: 15px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+.peli1{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	margin-left: 90px;
+	margin-right: 0px;
+}
+.peli2{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 320px;
+	margin-right: 0px;
+}
+.peli3{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 550px;
+	margin-right: 0px;
+}
+.peli4{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 780px;
+	margin-right: 0px;
+}
+
+.peli5{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 1010px;
+	margin-right: 0px;
+}
+
+.peli6{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	margin-left: 90px;
+	margin-right: 0px;
+}
+.peli7{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 320px;
+	margin-right: 0px;
+}
+.peli8{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 550px;
+	margin-right: 0px;
+}
+.peli9{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 780px;
+	margin-right: 0px;
+}
+.peli10{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 1010px;
+	margin-right: 0px;
+}
+.peli11{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	margin-left: 90px;
+	margin-right: 0px;
+}
+.peli12{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 320px;
+	margin-right: 0px;
+}
+.peli13{
+	background: none;
+	width: 210px;
+	height: 290px;
+	padding: 0px;
+	margin-top: -290px;
+	margin-bottom: 0px;
+	margin-left: 550px;
+	margin-right: 0px;
+}
